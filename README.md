@@ -1,8 +1,10 @@
 # Data-Mining-Election-Tweets
 
-There are two data sets: 
+There are two data sets used: 
 
 election.csv (historical data) and etweets.csv (new data)
+
+Both are too large to be included in the github repository.
 
 Abstract:
 
